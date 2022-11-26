@@ -6,6 +6,7 @@ __pycache__/
 # Input / output files
 input/
 output/
+predictions/
 
 # Other stuff
 competitions-details.md
