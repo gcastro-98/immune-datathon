@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Input / output files
+input/
+output/
+
+# Other stuff
+competitions-details.md
+
 # C extensions
 *.so
 
